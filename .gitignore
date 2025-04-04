@@ -1,0 +1,7 @@
+bin/
+obj/
+*.depend
+*.layout
+*.dll
+SDL2/
+SDL2_ttf/
